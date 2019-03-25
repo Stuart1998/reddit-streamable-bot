@@ -2,7 +2,7 @@
 A bot for Reddit that mirror videos from posts of specified domains to Streamable and replies with the link.
 
 ## Requirements:
-- [Python](https://www.python.org/) 3+
+- [Python](https://www.python.org/) 3.6+
 - Third-party libraries: [PRAW](https://praw.readthedocs.io/en/latest/getting_started/installation.html) 6+ and [Requests](http://docs.python-requests.org/en/master/)
 
       pip install requests praw
